@@ -561,7 +561,7 @@ section .container {
   margin: -40px 0 0 40px;
   position: relative;
   z-index: 2;
-  border: 6px solid rgba(255, 255, 255, 0.12);
+  border: 6px solid rgba(0, 0, 0, 0.438);
 }
 
 .testimonials .testimonial-item h3 {
